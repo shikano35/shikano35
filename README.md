@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=react" />
 
 ### Tools & Services
 <img src="https://skillicons.dev/icons?i=git,github,jest,firebase" />
@@ -28,7 +28,7 @@
 ## Currently Studying
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,go,mongodb,nestjs,postgres,prisma,py,vitest,p5js" />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,go,mongodb,nestjs,postgres,prisma,py,vitest,p5js,nextjs,tailwind,nodejs" />
 
 # Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiitake05&show_icons=true&include_all_commits=true&locale=en&hide_border=true" alt="shiitake05" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiitake05&layout=compact&locale=en&hide_border=true" /></a> |
