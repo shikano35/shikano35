@@ -17,16 +17,13 @@
 ### Tools & Services
 <img src="https://skillicons.dev/icons?i=git,github,jest,firebase" />
 
-## Game Development & Graphics
+## Game Development & Other Technologies
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust" />
 
 ### Game Engines
 <img src="https://skillicons.dev/icons?i=unity,unreal" />
-
-### 3D & Graphics Tools
-<img src="https://skillicons.dev/icons?i=blender,ps,ai" />
 
 ## Currently Studying
 
