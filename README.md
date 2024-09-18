@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=react" />
 
 ### Tools & Services
-<img src="https://skillicons.dev/icons?i=git,github,jest,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ## Game Development & Other Technologies
 
