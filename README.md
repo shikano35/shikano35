@@ -30,7 +30,7 @@
 ### Tools & Technologies
 <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,vitest,py,go,p5js,tailwind" />
 
-// ,postgres,prisma,jest,firebase,mongodb,docker,cloudflare,
+<!--- ,postgres,prisma,jest,firebase,mongodb,docker,cloudflare --->
 
 # Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiitake05&show_icons=true&include_all_commits=true&locale=en&hide_border=true" alt="shiitake05" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiitake05&layout=compact&locale=en&hide_border=true" /></a> |
