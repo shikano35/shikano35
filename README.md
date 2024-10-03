@@ -9,10 +9,10 @@
 ## Web Development
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 
 ### Tools & Services
 <img src="https://skillicons.dev/icons?i=git,github" />
@@ -28,7 +28,7 @@
 ## Currently Studying
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,vitest,py,go,p5js,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,vitest,py,tailwind" />
 
 <!--- ,postgres,prisma,jest,firebase,mongodb,docker,cloudflare --->
 
