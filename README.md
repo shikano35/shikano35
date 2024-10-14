@@ -6,21 +6,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Web Development
+## Skills & Technologies
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,c,rust" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs" />
 
 ### Tools & Services
 <img src="https://skillicons.dev/icons?i=git,github" />
-
-## Game Development & Other Technologies
-
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,rust" />
 
 ### Game Engines
 <img src="https://skillicons.dev/icons?i=unity,unreal" />
@@ -38,6 +33,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shiitake05)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiitake05)](https://git.io/streak-stats)
 
 <!---
 shiitake05/shiitake05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
