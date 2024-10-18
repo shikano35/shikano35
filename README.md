@@ -1,10 +1,6 @@
-# 👋 Hi, I’m shiitake
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I’m shiitake</h1>
+<br>
+
 
 ## Skills & Technologies
 
@@ -12,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,php,go,rust" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
 
 ### Tools & Services
 <img src="https://skillicons.dev/icons?i=git,github" />
@@ -23,9 +19,9 @@
 ## Currently Studying
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,vitest,py,tailwind" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,postgres,prisma,firebase,supabase,nestjs,vue,nuxtjs,jest,vitest" />
 
-<!--- ,postgres,prisma,jest,firebase,mongodb,docker,cloudflare --->
+<!--- jest,vitest,mongodb,cloudflare,mysql,p5js,py, --->
 
 # Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiitake05&show_icons=true&include_all_commits=true&locale=en&hide_border=true&layout=compact" alt="shiitake05" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiitake05&layout=compact&locale=en&hide_border=true" /></a> |
