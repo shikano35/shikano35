@@ -10,9 +10,6 @@
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
 
-### Tools & Services
-<img src="https://skillicons.dev/icons?i=git,github" />
-
 ### Game Engines
 <img src="https://skillicons.dev/icons?i=unity,unreal" />
 
