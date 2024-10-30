@@ -16,9 +16,9 @@
 ## Currently Studying
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=mysql,docker,postgres,prisma,firebase,supabase,nestjs,vue,nuxtjs,jest,vitest" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,postgres,prisma,firebase,supabase,nestjs,vue,nuxtjs,vitest" />
 
-<!--- jest,vitest,mongodb,cloudflare,mysql,p5js,py, --->
+<!--- vitest,mongodb,cloudflare,mysql,p5js,py, --->
 
 # Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiitake05&show_icons=true&include_all_commits=true&locale=en&hide_border=true&layout=compact" alt="shiitake05" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiitake05&layout=compact&locale=en&hide_border=true" /></a> |
