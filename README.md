@@ -5,7 +5,7 @@
 ## Skills & Technologies
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,html,css,js,ts,php,go,rust" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,ts,go,rust" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
