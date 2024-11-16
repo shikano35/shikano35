@@ -10,15 +10,13 @@
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
 
-### Game Engines
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
+### Tools
+<img src="https://skillicons.dev/icons?i=git,docker" />
 
 ## Currently Studying
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,firebase,supabase,nestjs,vue,nuxtjs,vitest,py" />
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=mysql,docker,postgres,prisma,firebase,supabase,nestjs,vue,nuxtjs,vitest" />
-
-<!--- vitest,mongodb,cloudflare,mysql,p5js,py, --->
+<!--- mongodb,cloudflare,p5js --->
 
 # Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiitake05&show_icons=true&include_all_commits=true&locale=en&hide_border=true&layout=compact" alt="shiitake05" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiitake05&layout=compact&locale=en&hide_border=true" /></a> |
