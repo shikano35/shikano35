@@ -8,13 +8,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,rust" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,prisma" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,docker" />
 
 ## Currently Studying
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,firebase,supabase,nestjs,vue,nuxtjs,vitest,py" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,nestjs,vue,nuxtjs,vitest,py" />
 
 <!--- mongodb,cloudflare,p5js --->
 
