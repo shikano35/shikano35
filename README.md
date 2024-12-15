@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m shiitake</h1>
+My favorite programming languages are TypeScript, Go, and Rust.
 <br>
-
+<br>
 
 ## Skills & Technologies
 
