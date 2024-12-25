@@ -12,9 +12,6 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,docker" />
 
-## Currently Studying
-<img src="https://skillicons.dev/icons?i=mysql,postgres,nestjs,vitest" />
-
 <!--- mongodb,cloudflare,p5js --->
 
 # Stats
