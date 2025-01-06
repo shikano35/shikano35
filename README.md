@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m shiitake</h1>
+<h1 align="center">👋 Hi, I’m shikano</h1>
 <br>
 
 ## Skills & Technologies
