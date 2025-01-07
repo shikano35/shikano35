@@ -4,10 +4,10 @@
 ## Skills & Technologies
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,go,rust" />
+<img src="https://skillicons.dev/icons?i=ts,go,rust" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,prisma" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,docker" />
