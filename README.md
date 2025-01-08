@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,go" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,docker" />
