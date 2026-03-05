@@ -2,5 +2,3 @@
 | ------------- | ------------- |
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shikano35&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shikano35)
